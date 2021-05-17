@@ -16,7 +16,7 @@
 ![フォントモデル2](https://pbs.twimg.com/media/E1mcyPjVIAI4ROl?format=png&name=900x900)
 ![フォントモデル3](https://pbs.twimg.com/media/E1mdBn2VIAAoP-M?format=png&name=900x900)
 #### 背景壁紙のモデリング
-* 背景透過のファイルのプレヴュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
+* 背景透過のファイルのプレビュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
 ![フォントモデル4](https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large)
 #### blenderの軸表示のモデリング
 * blender上でアングルの調節や確認の際に使用する三次元の軸表示を、手にもって傾けながらリアルに体験できるガチャガチャ
