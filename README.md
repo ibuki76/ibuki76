@@ -13,12 +13,15 @@
 * フォントの違いの視覚的な比較に、さらに触覚の要素を加えて遊べるガチャガチャ
 * Google Fontsからダウンロードしたものを、blenderで3Dモデルにする。blenderではコマンドによる日本語のテキスト入力ができないため、他のツールで書いたものをコピペする必要があった。
 * ![フォントモデル1] (https://pbs.twimg.com/media/E1mcfrTVEAMGTgX?format=jpg&name=medium)
+* ![フォントモデル2] (https://pbs.twimg.com/media/E1mcyPjVIAI4ROl?format=png&name=900x900)
+* ![フォントモデル3] (https://pbs.twimg.com/media/E1mdBn2VIAAoP-M?format=png&name=900x900)
 #### 背景壁紙のモデリング
 * 背景透過のファイルのプレヴュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
+* ![フォントモデル3] (https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large)
 #### blenderの軸表示のモデリング
 * blender上でアングルの調節や確認の際に使用する三次元の軸表示を、手にもって傾けながらリアルに体験できるガチャガチャ
 * 球体への文字の刻印は、対象のオブジェクトに対してブーリアンというモディファイアを加える必要があった。さらに、テキストオブジェクトはメッシュ化しないとブーリアンで選択できなかった。
-
+* ![フォントモデル3] (https://pbs.twimg.com/media/E1mbnJaUUAMl0Cy?format=jpg&name=large)
 
 
 <!--
