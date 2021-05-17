@@ -17,11 +17,11 @@
 * ![フォントモデル3](https://pbs.twimg.com/media/E1mdBn2VIAAoP-M?format=png&name=900x900)
 #### 背景壁紙のモデリング
 * 背景透過のファイルのプレヴュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
-* ![フォントモデル3] (https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large)
+* ![フォントモデル4](https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large)
 #### blenderの軸表示のモデリング
 * blender上でアングルの調節や確認の際に使用する三次元の軸表示を、手にもって傾けながらリアルに体験できるガチャガチャ
 * 球体への文字の刻印は、対象のオブジェクトに対してブーリアンというモディファイアを加える必要があった。さらに、テキストオブジェクトはメッシュ化しないとブーリアンで選択できなかった。
-* ![フォントモデル3] (https://pbs.twimg.com/media/E1mbnJaUUAMl0Cy?format=jpg&name=large)
+* ![フォントモデル5](https://pbs.twimg.com/media/E1mbnJaUUAMl0Cy?format=jpg&name=large)
 
 
 <!--
