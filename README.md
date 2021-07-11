@@ -8,7 +8,7 @@
 * インタビューパートの編集、全体のパートのミックス、音量調節を担当した。
 * 編集ツールはDavinci Resolve。
 * YouTubeの古橋研究室チャンネルで公開中。
-* ![フォントモデル6](https://www.youtube.com/watch?v=zMyQzPomwbw)
+* https://www.youtube.com/watch?v=zMyQzPomwbw
 ---
 ## 古橋研究室ハッカソン2021/06/1-8
 * テーマは「横瀬町ウォーキングコース」のマップ制作
