@@ -32,7 +32,7 @@
 #### フォントのモデリング
 * フォントの違いの視覚的な比較に、さらに触覚の要素を加えて遊べるガチャガチャ
 * Google Fontsからダウンロードしたものを、blenderで3Dモデルにする。blenderではコマンドによる日本語のテキスト入力ができないため、他のツールで書いたものをコピペする必要があった。
-![フォントモデル1]< img src="https://pbs.twimg.com/media/E1mcfrTVEAMGTgX?format=jpg&name=medium" width="70%">
+<img src="https://pbs.twimg.com/media/E1mcfrTVEAMGTgX?format=jpg&name=medium" width="70%">
 ![フォントモデル2](https://pbs.twimg.com/media/E1mcyPjVIAI4ROl?format=png&name=900x900)
 ![フォントモデル3](https://pbs.twimg.com/media/E1mdBn2VIAAoP-M?format=png&name=900x900)
 #### 背景壁紙のモデリング
