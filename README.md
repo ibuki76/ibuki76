@@ -10,6 +10,13 @@
 * YouTubeの古橋研究室チャンネルで公開中。
 * https://www.youtube.com/watch?v=zMyQzPomwbw
 ---
+## State of the Map 2021 発表用ポスター制作
+* OSMの国際カンファレンスであるState of the Mapにおいて、2020年から2021年にかけてのYouthMappers AGUの活動内容をまとめたポスターを投稿した。
+* ポスターの制作を担当。デザインプラットフォームのCanvaを使用し、デザイン4原則やインパクトの強さを意識して制作した。
+* State of the Map 2021公式サイトにて公開中。
+* https://2021.stateofthemap.org/posters/
+* <img src="https://files.osmfoundation.org/s/aLYF3oTiG5rLmBQ" width="50%">
+---
 ## 古橋研究室ハッカソン2021/06/1-8
 * テーマは「横瀬町ウォーキングコース」のマップ制作
 *   横瀬町公式のコンペにも応募する。観光部門でのエントリー。
