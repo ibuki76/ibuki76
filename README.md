@@ -15,7 +15,7 @@
 * ポスターの制作を担当。デザインプラットフォームのCanvaを使用し、デザイン4原則やインパクトの強さを意識して制作した。
 * State of the Map 2021公式サイトにて公開中。
 * https://2021.stateofthemap.org/posters/
-* <img src="https://files.osmfoundation.org/s/aLYF3oTiG5rLmBQ" width="50%">
+<img src="https://files.osmfoundation.org/s/aLYF3oTiG5rLmBQ" width="50%">
 ---
 ## 古橋研究室ハッカソン2021/06/1-8
 * テーマは「横瀬町ウォーキングコース」のマップ制作
