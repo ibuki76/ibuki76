@@ -1,6 +1,6 @@
 # Ibuki Shibayama Portfolio  
 ---
-## Wheelmap紹介イベント用インストラクション動画作成【YouthMappers AGU】
+## Wheelmap紹介イベント用インストラクション動画作成【YouthMappers AGU】2021/08/23
 * LIVES/マイクロンからWheelmap紹介イベントで用いるHow to動画の依頼を受け、YouthMappers AGUのメンバーで制作を行った。
 * 全体の素材のミックス、編集を担当した。
 * 編集ツールはDavinci Resolve。
@@ -17,7 +17,7 @@
 * YouTubeの古橋研究室チャンネルで公開中。
 * https://www.youtube.com/watch?v=zMyQzPomwbw
 ---
-## State of the Map 2021 発表用ポスター制作【YouthMappers AGU】
+## State of the Map 2021 発表用ポスター制作【YouthMappers AGU】2021/06/24
 * OSMの国際カンファレンスであるState of the Mapにおいて、2020年から2021年にかけてのYouthMappers AGUの活動内容をまとめたポスターを投稿した。
 * ポスターの制作を担当。デザインプラットフォームのCanvaを使用し、デザイン4原則やインパクトの強さを意識して制作した。
 * State of the Map 2021公式サイトにて公開中。
