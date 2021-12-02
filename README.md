@@ -1,13 +1,14 @@
 # Ibuki Shibayama Portfolio  
 ---
 ## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
-<img src="https://miro.medium.com/max/1400/1*pBwLRFpE-jCNPJNK-HZYuQ.jpeg" width="50%">
 * 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
 * プログラムは全てバーチャルイベントプラットフォーム「Hopin」で進行された。
 * 10分程度のプレゼンテーション動画と Q&A を行うDialogue の形式でエントリーし、YouthMappers AGUの最近の活動と課題について発表した。
 * Q&Aでは英語でのコミュニケーションに苦戦し、ファシリテーターの方やオーディエンスの方に助けて頂きながら進行させた。これをきっかけに、さらに実践の場を経験して英会話力を向上させたいと思った。
 * 本番に提出した動画はYouTubeのHOT公式チャンネルから公開されている。
 * https://www.youtube.com/watch?v=u_FYGgCpB9s&list=PLb9506_-6FMGdjJSF4SmLW-_S204m7GrR&index=13
+<img src="https://miro.medium.com/max/1400/1*pBwLRFpE-jCNPJNK-HZYuQ.jpeg" width="50%">
+
 ---
 ## Wheelmap紹介イベント用インストラクション動画作成【YouthMappers AGU】2021/08/23
 * LIVES/マイクロンからWheelmap紹介イベントで用いるHow to動画の依頼を受け、YouthMappers AGUのメンバーで制作を行った。
@@ -15,6 +16,8 @@
 * 編集ツールはDavinci Resolve。
 * YouTubeのYouthMappers AGUチャンネルで公開中。
 * https://www.youtube.com/watch?v=T0nZLqRB7dk
+* イベントの報告
+* https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffuruhashilab%2Fposts%2F1547523185600967&show_text=true&width=500"
 ---
 ## 古橋研究室ハッカソン2021/06/29-7/13
 * テーマは古橋研究室の紹介動画の制作
@@ -59,13 +62,16 @@
 <img src="https://pbs.twimg.com/media/E1mcfrTVEAMGTgX?format=jpg&name=medium" width="50%">
 <img src="https://pbs.twimg.com/media/E1mcyPjVIAI4ROl?format=png&name=900x900" width="50%">
 <img src="https://pbs.twimg.com/media/E1mdBn2VIAAoP-M?format=png&name=900x900" width="50%">
+
 #### blenderの軸表示のモデリング
 * blender上でアングルの調節や確認の際に使用する三次元の軸表示を、手にもって傾けながらリアルに体験できるガチャガチャ
 * 球体への文字の刻印は、対象のオブジェクトに対してブーリアンというモディファイアを加える必要があった。さらに、テキストオブジェクトはメッシュ化しないとブーリアンで選択できなかった。
 <img src="https://pbs.twimg.com/media/E1mbnJaUUAMl0Cy?format=jpg&name=large" width="50%">
+
 #### 背景壁紙のモデリング
 * 背景透過のファイルのプレビュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
 <img src="https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large" width="50%>
+                                                                                    
 <!--
 **ibuki76/ibuki76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
