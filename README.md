@@ -1,9 +1,14 @@
 # Ibuki Shibayama Portfolio  
 ---
-* 卒論レポジトリ
-https://github.com/furuhashilab/2021gsc_IbukiShibayama
-* 卒論研究進捗管理用プロジェクト
-https://github.com/furuhashilab/sotsuron2021/projects/10
+## 柴山息吹
+* 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 地球社会共生学科 3年生
+* 神奈川県 相模原市出身・在住
+* 青山学院大学 [古橋研究室](https://github.com/furuhashilab)所属
+* 学生団体 YouthMappers AGU メンバー
+* 神奈川県立相模原高等学校出身
+---
+* [卒論レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
+* [卒論研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
 ---
 ## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
 * 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
