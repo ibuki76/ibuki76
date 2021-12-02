@@ -1,5 +1,10 @@
 # Ibuki Shibayama Portfolio  
 ---
+* 卒論レポジトリ
+https://github.com/furuhashilab/2021gsc_IbukiShibayama
+* 卒論研究進捗管理用プロジェクト
+https://github.com/furuhashilab/sotsuron2021/projects/10
+---
 ## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
 * 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
 * プログラムは全てバーチャルイベントプラットフォーム「Hopin」で進行された。
