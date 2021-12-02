@@ -1,5 +1,14 @@
 # Ibuki Shibayama Portfolio  
 ---
+## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
+<img src="https://miro.medium.com/max/1400/1*pBwLRFpE-jCNPJNK-HZYuQ.jpeg" width="50%">
+* 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
+* プログラムは全てバーチャルイベントプラットフォーム「Hopin」で進行された。
+* 10分程度のプレゼンテーション動画と Q&A を行うDialogue の形式でエントリーし、YouthMappers AGUの最近の活動と課題について発表した。
+* Q&Aでは英語でのコミュニケーションに苦戦し、ファシリテーターの方やオーディエンスの方に助けて頂きながら進行させた。これをきっかけに、さらに実践の場を経験して英会話力を向上させたいと思った。
+* 本番に提出した動画はYouTubeのHOT公式チャンネルから公開されている。
+* https://www.youtube.com/watch?v=u_FYGgCpB9s&list=PLb9506_-6FMGdjJSF4SmLW-_S204m7GrR&index=13
+---
 ## Wheelmap紹介イベント用インストラクション動画作成【YouthMappers AGU】2021/08/23
 * LIVES/マイクロンからWheelmap紹介イベントで用いるHow to動画の依頼を受け、YouthMappers AGUのメンバーで制作を行った。
 * 全体の素材のミックス、編集を担当した。
