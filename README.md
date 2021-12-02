@@ -7,6 +7,7 @@
 * 学生団体 [YouthMappers AGU](https://furuhashilab.github.io/youthmappers4agu/) メンバー
 * 神奈川県立相模原高等学校出身
 ---
+* [制作物レポジトリ](https://github.com/ibuki76/agu_2021)
 * [卒論レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 * [卒論研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
 ---
