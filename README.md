@@ -82,6 +82,7 @@
 #### 背景壁紙のモデリング
 * 背景透過のファイルのプレビュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
 <img src="https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large" width="50%>
+
                                                                                     
 <!--
 **ibuki76/ibuki76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
