@@ -17,7 +17,7 @@
 * 10分程度のプレゼンテーション動画と Q&A を行うDialogue の形式でエントリーし、YouthMappers AGUの最近の活動と課題について発表した。
 * Q&Aでは英語でのコミュニケーションに苦戦し、ファシリテーターの方やオーディエンスの方に助けて頂きながら進行させた。これをきっかけに、さらに実践の場を経験して英会話力を向上させたいと思った。
 * 本番に提出した動画はYouTubeのHOT公式チャンネルから公開されている。
-* https://www.youtube.com/watch?v=u_FYGgCpB9s&list=PLb9506_-6FMGdjJSF4SmLW-_S204m7GrR&index=13
+  * https://www.youtube.com/watch?v=u_FYGgCpB9s&list=PLb9506_-6FMGdjJSF4SmLW-_S204m7GrR&index=13
 <img src="https://miro.medium.com/max/1400/1*pBwLRFpE-jCNPJNK-HZYuQ.jpeg" width="50%">
 
 ---
@@ -26,9 +26,9 @@
 * 全体の素材のミックス、編集を担当した。
 * 編集ツールはDavinci Resolve。
 * YouTubeのYouthMappers AGUチャンネルで公開中。
-* https://www.youtube.com/watch?v=T0nZLqRB7dk
+  * https://www.youtube.com/watch?v=T0nZLqRB7dk
 * イベントの報告
-* https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffuruhashilab%2Fposts%2F1547523185600967&show_text=true&width=500"
+  * https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffuruhashilab%2Fposts%2F1547523185600967&show_text=true&width=500"
 ---
 ## 古橋研究室ハッカソン2021/06/29-7/13
 * テーマは古橋研究室の紹介動画の制作
@@ -38,13 +38,13 @@
 * インタビューパートの編集、全体のパートのミックスを担当した。
 * 編集ツールはDavinci Resolve。
 * YouTubeの古橋研究室チャンネルで公開中。
-* https://www.youtube.com/watch?v=zMyQzPomwbw
+  * https://www.youtube.com/watch?v=zMyQzPomwbw
 ---
 ## State of the Map 2021 発表用ポスター制作【YouthMappers AGU】2021/06/24
 * OSMの国際カンファレンスであるState of the Mapにおいて、2020年から2021年にかけてのYouthMappers AGUの活動内容をまとめたポスターを投稿した。
 * ポスターの制作を担当。デザインプラットフォームのCanvaを使用し、デザイン4原則やインパクトの強さを意識して制作した。
 * State of the Map 2021公式サイトにて公開中。
-* https://2021.stateofthemap.org/posters/
+  * https://2021.stateofthemap.org/posters/
 <img src="https://miro.medium.com/max/1050/1*2BRtATFjwbTVcUVCfEQFZw.png" width="50%">
 
 ---
@@ -56,7 +56,7 @@
 * 「映える」スポットを集め、歩いたコースで横瀬町の町の鳥であるカワセミの姿を描けるように作る。
 * 作業分担し、スポットの収集とコースの考案を担当した。
 * Google My Map でコースを作成し、応募した。
-* https://www.google.com/maps/d/u/0/edit?mid=12ZGJEMXJqXBw9bCIE-kF4nTfh0Ws7FUU&usp=sharing
+  * https://www.google.com/maps/d/u/0/edit?mid=12ZGJEMXJqXBw9bCIE-kF4nTfh0Ws7FUU&usp=sharing
 ---
 ## 古橋研究室ハッカソン2021/05/11-18
 * テーマは「古橋研究室ガチャガチャ アイディア3Dモデリング」
