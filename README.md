@@ -11,6 +11,10 @@
 * [ゼミ論文レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 * [ゼミ論文研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
 ---
+## UNVT Hackathon/Meetup 2022 Online (古橋研究室ハッカソン2021/12/14-21)
+* [ハッカソンレポジトリ](https://github.com/unvt/hackathonmeetup202112)
+* [YouthMappers AGU チームレポジトリ](https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_YouthMappers_AGU)
+---
 ## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
 * 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
 * プログラムは全てバーチャルイベントプラットフォーム「Hopin」で進行された。
