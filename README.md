@@ -4,7 +4,7 @@
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 地球社会共生学科 3年生
 * 神奈川県 相模原市出身・在住
 * 青山学院大学 [古橋研究室](https://github.com/furuhashilab)所属
-* 学生団体 [YouthMappers AGU](https://furuhashilab.github.io/youthmappers4agu/) 代表
+* 学生団体 [YouthMappers AGU](https://www.facebook.com/youthmappers4agu/) 代表
 * 神奈川県立相模原高等学校出身
 * [Facebook](https://www.facebook.com/ibukilego/)
 * [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
