@@ -1,4 +1,4 @@
-# Ibuki Shibayama Portfolio  [→Web Site](https://ibuki76.github.io/public/index.html)
+# Ibuki Shibayama Portfolio  ([→website ver](https://ibuki76.github.io/public/index.html))
 ---
 ## 柴山息吹
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 地球社会共生学科 3年生
