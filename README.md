@@ -6,7 +6,7 @@
 * 青山学院大学 [古橋研究室](https://github.com/furuhashilab)所属
 * 学生団体 [YouthMappers AGU](https://www.facebook.com/youthmappers4agu/) 代表
 * 神奈川県立相模原高等学校出身
-* [ホームページ版ポートフォリオ](https://ibuki76.github.io/public/index.html)
+* [ウェブサイト版ポートフォリオ](https://ibuki76.github.io/public/index.html)
 * [Facebook](https://www.facebook.com/ibukilego/)
 * [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
 ---
