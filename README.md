@@ -88,7 +88,7 @@
 
 #### 背景壁紙のモデリング
 * 背景透過のファイルのプレビュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
-<img src="https://pbs.twimg.com/media/E1mbuHSUYAAvlRB?format=jpg&name=large" width="50%>
+<img width="50%" alt="2021-05-14 (1)" src="https://user-images.githubusercontent.com/72287333/155175483-60d5a6e8-10a5-4e12-bbac-033a986bd1f8.png">
 
                                                                                     
 <!--
