@@ -1,5 +1,4 @@
-# Ibuki Shibayama Portfolio
-## ([→website ver](https://ibuki76.github.io/public/index.html))
+# Ibuki Shibayama Portfolio ([→website ver](https://ibuki76.github.io/public/index.html))
 ## [ウクライナマッピング支援レポート](https://medium.com/@ibukilego/list/help-ukraine-5df8969f8532)
 ---
 ## 柴山息吹
