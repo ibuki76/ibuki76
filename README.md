@@ -9,6 +9,7 @@
 * [ウェブサイト版ポートフォリオ](https://ibuki76.github.io/public/index.html)
 * [Facebook](https://www.facebook.com/ibukilego/)
 * [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
+* [Missing Maps](https://www.missingmaps.org/users/#/ibukilego)
 ---
 * [ウクライナマッピング支援レポート](https://medium.com/@ibukilego/list/help-ukraine-5df8969f8532)
 * [制作物レポジトリ](https://github.com/ibuki76/agu_2021)
