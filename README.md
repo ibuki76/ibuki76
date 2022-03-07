@@ -1,5 +1,4 @@
 # Ibuki Shibayama Portfolio ([→website ver](https://ibuki76.github.io/public/index.html))
-## [ウクライナマッピング支援レポート](https://medium.com/@ibukilego/list/help-ukraine-5df8969f8532)
 ---
 ## 柴山息吹
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 地球社会共生学科 3年生
@@ -11,6 +10,7 @@
 * [Facebook](https://www.facebook.com/ibukilego/)
 * [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
 ---
+* [ウクライナマッピング支援レポート](https://medium.com/@ibukilego/list/help-ukraine-5df8969f8532)
 * [制作物レポジトリ](https://github.com/ibuki76/agu_2021)
 * [ゼミ論文レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 * [ゼミ論文研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
