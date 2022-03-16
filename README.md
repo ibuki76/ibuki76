@@ -16,6 +16,12 @@
 * [ゼミ論文レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 * [ゼミ論文研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
 ---
+## YouthMappers AGU ウクライナマッピング支援 2022/2/27~
+* ロシアの攻撃により国外へ避難している難民の方々や支援団体のために現地のOSMマッピングを行っています。
+* ポーランドのOpenStreetMapコミュニティのメーリングリストの情報を基に避難先となる地域のマッピングをしています。
+* 難民の方々や支援団体の行動の基盤として地図情報が少しでも役立つことを願っています。
+* 3/15にテレビ朝日の取材を受けました。[https://news.tv-asahi.co.jp/news_society/articles/000248087.html](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
+---
 ## UNVT Hackathon/Meetup 2022 Online (古橋研究室ハッカソン2021/12/14-21)
 * [ハッカソンレポジトリ](https://github.com/unvt/hackathonmeetup202112)
 * [YouthMappers AGU チームレポジトリ](https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_YouthMappers_AGU)
