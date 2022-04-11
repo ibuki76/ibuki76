@@ -85,14 +85,16 @@
 #### フォントのモデリング
 * フォントの違いの視覚的な比較に、さらに触覚の要素を加えて遊べるガチャガチャ
 * Google Fontsからダウンロードしたものを、blenderで3Dモデルにする。blenderではコマンドによる日本語のテキスト入力ができないため、他のツールで書いたものをコピペする必要があった。
-<img src="https://pbs.twimg.com/media/E1mcfrTVEAMGTgX?format=jpg&name=medium" width="50%">
-<img src="https://pbs.twimg.com/media/E1mcyPjVIAI4ROl?format=png&name=900x900" width="50%">
-<img src="https://pbs.twimg.com/media/E1mdBn2VIAAoP-M?format=png&name=900x900" width="50%">
+<img width="50%" alt="2021-05-18 (2)" src="https://user-images.githubusercontent.com/72287333/162674663-406ba0d0-b736-4cb8-9200-7747017558f8.png">
+<img width="50%" alt="2021-05-18 (3)" src="https://user-images.githubusercontent.com/72287333/162674674-d43c87d7-060c-4992-b946-4ad59f077140.png">
+<img width="50%" alt="2021-05-18 (5)" src="https://user-images.githubusercontent.com/72287333/162674690-78510881-ad63-4e34-877b-7c7328cad22f.png">
+
 
 #### blenderの軸表示のモデリング
 * blender上でアングルの調節や確認の際に使用する三次元の軸表示を、手にもって傾けながらリアルに体験できるガチャガチャ
 * 球体への文字の刻印は、対象のオブジェクトに対してブーリアンというモディファイアを加える必要があった。さらに、テキストオブジェクトはメッシュ化しないとブーリアンで選択できなかった。
-<img src="https://pbs.twimg.com/media/E1mbnJaUUAMl0Cy?format=jpg&name=large" width="50%">
+<img width="50%" alt="2021-05-14" src="https://user-images.githubusercontent.com/72287333/162674618-bdc76a7e-cea2-4834-a91b-9534e0610c86.png">
+
 
 #### 背景壁紙のモデリング
 * 背景透過のファイルのプレビュー時に表示される背景壁紙を立体にすることで、実際にものを置いて画面上を再現して遊べるガチャガチャ
