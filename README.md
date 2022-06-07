@@ -15,6 +15,7 @@
 * [制作物レポジトリ](https://github.com/ibuki76/agu_2021)
 * [ゼミ論文レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 * [ゼミ論文研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
+* [古橋研究室ブログ](https://sdgs.hotosm.org/)
 ---
 ## YouthMappers AGU ウクライナマッピング支援 2022/2/27~
 * ロシアの攻撃により国外へ避難している難民の方々や支援団体のために現地のOSMマッピングを行っています。
