@@ -18,7 +18,10 @@
 ---
 ## トートバッグハッカソン 【ROOTOTE x Mapbox x RICOH x 古橋研究室】2022/4/12
 * 「地図 × トートバッグ」というテーマでプリントのデザインをするハッカソン
-* 
+* [ハッカソン概要](https://github.com/furuhashilab/README/issues/33#:~:text=commented-,on%205%20Apr,-%E2%80%A2)
+* Mapbox studio を利用して、プリント基板風の地図デザインをトートバッグにプリントした。
+* [ハッカソン発表記事](https://medium.com/furuhashilab/%E3%83%88%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%B0%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3-%E6%9F%B4%E5%B1%B1-%E5%90%89%E7%94%B0%E3%83%81%E3%83%BC%E3%83%A0-50624cf4181e)
+* [Mapbox Japan 社内報](https://blog.mapbox.jp/n/n885f23c8e379?fbclid=IwAR1IBxF8gnXYjdtKmG7DqhCk9dkkecMmkODpMeZGE1GLawVia4XJglwXv4g#:~:text=%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82-,%E6%9F%B4%E5%B1%B1%E3%81%95%E3%82%93%E3%83%BB%E5%90%89%E7%94%B0%E3%81%95%E3%82%93%E3%83%81%E3%83%BC%E3%83%A0,-%E3%80%8C%E5%9C%B0%E5%9B%B3%E3%80%8D%E3%81%A8%E3%80%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88)
 ---
 ## YouthMappers AGU ウクライナマッピング支援 2022/2/27~
 * ロシアの攻撃により国外へ避難している難民の方々や支援団体のために現地のOSMマッピングを行っている。
