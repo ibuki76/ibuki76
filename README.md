@@ -16,6 +16,25 @@
 * [ゼミ論文研究進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/10)
 * [古橋研究室ブログ](https://medium.com/furuhashilab)
 ---
+## ガチャガチャハッカソン 古橋研究室 2022/5/24-31
+* Blenderを使った3Dモデリングがテーマのハッカソン
+* [ハッカソン概要](https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234)
+* デザイン部・YouthMappers AGU の2チーム掛け持ちで参加。
+### デザイン部での活動
+* ドローン課題として、Aero Sense社の [Aerobo Wing](https://aerosense.co.jp/vtol-as-vt01) を選択。
+* [Urara Nagashima](https://github.com/urara222000) が [2021年度古橋研究室ゼミ論](https://github.com/furuhashilab/2021gsc_UraraNagashima) で制作したエアロボウイングのモデルを、軽量で3Dプリントしやすいものに編集した。
+* [データ置き場](https://github.com/furuhashilab/design_gacha)
+<img width="50%" alt="2021-05-18 (2)" src="https://user-images.githubusercontent.com/72287333/172773933-9648c54a-8482-4e22-acc2-7f29d764dbc6.jpg">
+
+* [発表記事](https://medium.com/furuhashilab/%E3%81%97%E3%81%A3%E3%81%B4%E3%81%A4%E3%81%A8%EF%BD%94%E5%BB%BA%E9%80%A0%E7%89%A9%E3%82%AC%E3%83%81%E3%83%A3-7f9ffb62e077#:~:text=%E3%82%AC%E3%83%81%E3%83%A3%20(github.com)-,%E8%AA%B2%E9%A1%8C%E3%83%86%E3%83%BC%E3%83%9E,-DRONEBIRD%E3%81%A7%E4%B8%BB%E3%81%AB)
+### YouthMappers AGUでの活動
+* ドローン課題として、SONY [Airpeak S1](https://www.sony.jp/airpeak/products/ARS-S1/) を選択。
+* 自由課題として、YouthMappers　ロゴアクセサリーを制作。
+<img width="50%" alt="2022-05-30 (1)" src="https://user-images.githubusercontent.com/72287333/172774975-3536467a-54e5-47f3-b0bb-e5116fd9969e.png">
+
+* [データ置き場](https://github.com/furuhashilab/youthmappersagu_gacha)
+* [発表記事](https://medium.com/furuhashilab/%E3%82%AC%E3%83%81%E3%83%A3%E3%82%AC%E3%83%81%E3%83%A3%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3-5-24-31-4dcd1750226c)
+---
 ## トートバッグハッカソン 【ROOTOTE x Mapbox x RICOH x 古橋研究室】2022/4/12
 * 「地図 × トートバッグ」というテーマでプリントのデザインをするハッカソン
 * [ハッカソン概要](https://github.com/furuhashilab/README/issues/33#:~:text=commented-,on%205%20Apr,-%E2%80%A2)
