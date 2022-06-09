@@ -23,6 +23,7 @@
 ### デザイン部での活動
 * ドローン課題として、Aero Sense社の [Aerobo Wing](https://aerosense.co.jp/vtol-as-vt01) を選択。
 * [Urara Nagashima](https://github.com/urara222000) が [2021年度古橋研究室ゼミ論](https://github.com/furuhashilab/2021gsc_UraraNagashima) で制作したエアロボウイングのモデルを、軽量で3Dプリントしやすいものに編集した。
+* 成果物は量産し、越谷防災フェス2022のDRONEBIRDの出展ブースでガチャガチャとして販売した。[イベントレポート記事](https://medium.com/furuhashilab/%E8%B6%8A%E8%B0%B7%E9%98%B2%E7%81%BD%E3%83%95%E3%82%A7%E3%82%B92022-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-3a7315de53a)
 * [データ置き場](https://github.com/furuhashilab/design_gacha)
 <img width="50%" alt="2021-05-18 (2)" src="https://user-images.githubusercontent.com/72287333/172773933-9648c54a-8482-4e22-acc2-7f29d764dbc6.jpg">
 
