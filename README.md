@@ -55,6 +55,7 @@
 ## UNVT Hackathon/Meetup 2022 Online (古橋研究室ハッカソン2021/12/14-21)
 * [ハッカソンレポジトリ](https://github.com/unvt/hackathonmeetup202112)
 * [YouthMappers AGU チームレポジトリ](https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_YouthMappers_AGU)
+* [発表記事](https://medium.com/furuhashilab/unvt-hackathon-meetup-2022-youthmappers-agu-51abe32f1844)
 ---
 ## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
 * 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
