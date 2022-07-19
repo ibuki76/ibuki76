@@ -17,8 +17,8 @@
 * [古橋研究室ブログ](https://medium.com/furuhashilab)
 ---
 ## Media
-* [日本経済新聞　コラム　「SDGs世代」](https://www.nikkei.com/article/DGKKZO62633770V10C22A7CK8000)
-* [テレビ朝日　「テレ朝news」](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
+* [日本経済新聞コラム「SDGs世代」](https://www.nikkei.com/article/DGKKZO62633770V10C22A7CK8000)
+* [テレビ朝日「テレ朝news」](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
 ---
 ## ガチャガチャハッカソン 古橋研究室 2022/5/24-31
 * Blenderを使った3Dモデリングがテーマのハッカソン
