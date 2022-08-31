@@ -30,6 +30,12 @@
 
 * [参加レポート記事](https://medium.com/furuhashilab/%E5%9B%BD%E9%80%A3%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E6%BD%9C%E5%85%A5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-2022-8-23-14798816b722) ([English Ver.](https://medium.com/furuhashilab/international-conference-report-un-open-gis-initiative-seminar-tech-forum-meetings-in-8042b98fd320))
 ---
+## オープンキャンパス研究室講演 配付用グッズ製作〜運営(2022/7/10)
+* 高校生向けの古橋研究室紹介講演の準備、参加者へ配布するグッズ製作、当日の運営を行なった。
+* [グッズ製作レポジトリ](https://github.com/furuhashilab/TOTEasCanvas_atFuruhashilab)
+* [タマサート大学デザイン](https://github.com/furuhashilab/TOTEasCanvas_atFuruhashilab/issues/2#issuecomment-1166560134) 、 [カセサート大学デザイン](https://github.com/furuhashilab/TOTEasCanvas_atFuruhashilab/issues/3#issuecomment-1167065806) 、ガーメントプリンターを用いた印刷作業を担当。
+* [オープンキャンパスレポート記事](https://medium.com/furuhashilab/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9-2022-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-e571c16e7910)　by [Kohki Kikuchi](https://github.com/kk-kkch03?tab=repositories)
+---
 ## ガチャガチャハッカソン 古橋研究室（2022/5/24-31）
 * Blenderを使った3Dモデリングがテーマのハッカソン
 * [ハッカソン概要](https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234)
