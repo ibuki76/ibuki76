@@ -26,7 +26,7 @@
 ## UN Open GIS Initiative Seminar, Tech Forum & Meetings in conjunction with FOSS4G 2022 参加　（2022/8/23）
 * 国連 Open GIS Initiative 主催のオフィシャルイベントにオンラインでオーディエンスとして参加。（ハイブリッド会議、フィレンツェ大学での対面 or Microsoft Teams）
 * 3つの講演をピックアップしてグラレコを作成。
-<img width="70%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/187594826-ecd0c634-9feb-438a-86b1-1eb01630dca8.PNG">
+<img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/187594826-ecd0c634-9feb-438a-86b1-1eb01630dca8.PNG">
 
 * [参加レポート記事](https://medium.com/furuhashilab/%E5%9B%BD%E9%80%A3%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E6%BD%9C%E5%85%A5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-2022-8-23-14798816b722) ([English Ver.](https://medium.com/furuhashilab/international-conference-report-un-open-gis-initiative-seminar-tech-forum-meetings-in-8042b98fd320))
 ---
