@@ -19,6 +19,7 @@
 ---
 ## Media
 * [テレビ朝日「テレ朝news」2022/03/16](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
+  * [Youtube Ver.](https://youtu.be/7TvqbudJsio)
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（上）』2022/07/19](https://www.nikkei.com/article/DGKKZO62633770V10C22A7CK8000)
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（中）』2022/07/26](https://www.nikkei.com/article/DGKKZO62863070V20C22A7CK8000)
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（下）』2022/08/2](https://www.nikkei.com/article/DGKKZO63070870R00C22A8CK8000)
