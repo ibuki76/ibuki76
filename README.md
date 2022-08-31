@@ -1,4 +1,4 @@
-# Ibuki Shibayama Portfolio ([→website ver](https://ibuki76.github.io/public/index.html))
+# Ibuki Shibayama Portfolio ([→Website Ver.](https://ibuki76.github.io/public/index.html))
 ## 柴山息吹
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 地球社会共生学科 4年生
 * 神奈川県 相模原市出身・在住
@@ -23,7 +23,14 @@
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（中）』2022/07/26](https://www.nikkei.com/article/DGKKZO62863070V20C22A7CK8000)
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（下）』2022/08/2](https://www.nikkei.com/article/DGKKZO63070870R00C22A8CK8000)
 ---
-## ガチャガチャハッカソン 古橋研究室 2022/5/24-31
+## UN Open GIS Initiative Seminar, Tech Forum & Meetings in conjunction with FOSS4G 2022 参加　（2022/8/23）
+* 国連 Open GIS Initiative 主催のオフィシャルイベントにオンラインでオーディエンスとして参加。（ハイブリッド会議、フィレンツェ大学での対面 or Microsoft Teams）
+* 3つの講演をピックアップしてグラレコを作成。
+<img width="70%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/187594826-ecd0c634-9feb-438a-86b1-1eb01630dca8.PNG">
+
+* [参加レポート記事](https://medium.com/furuhashilab/%E5%9B%BD%E9%80%A3%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E6%BD%9C%E5%85%A5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-2022-8-23-14798816b722) ([English Ver.](https://medium.com/furuhashilab/international-conference-report-un-open-gis-initiative-seminar-tech-forum-meetings-in-8042b98fd320))
+---
+## ガチャガチャハッカソン 古橋研究室　（2022/5/24-31）
 * Blenderを使った3Dモデリングがテーマのハッカソン
 * [ハッカソン概要](https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234)
 * デザイン部・YouthMappers AGU の2チーム掛け持ちで参加。
@@ -43,7 +50,7 @@
 * [データ置き場](https://github.com/furuhashilab/youthmappersagu_gacha)
 * [発表記事](https://medium.com/furuhashilab/%E3%82%AC%E3%83%81%E3%83%A3%E3%82%AC%E3%83%81%E3%83%A3%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3-5-24-31-4dcd1750226c)
 ---
-## トートバッグハッカソン 【ROOTOTE x Mapbox x RICOH x 古橋研究室】2022/4/12
+## トートバッグハッカソン 【ROOTOTE x Mapbox x RICOH x 古橋研究室】　（2022/4/12）
 * 「地図 × トートバッグ」というテーマでプリントのデザインをするハッカソン
 * [ハッカソン概要](https://github.com/furuhashilab/README/issues/33#:~:text=commented-,on%205%20Apr,-%E2%80%A2)
 * Mapbox studio を利用して、プリント基板風の地図デザインをトートバッグにプリントした。
@@ -64,7 +71,7 @@
 * [YouthMappers AGU チームレポジトリ](https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_YouthMappers_AGU)
 * [発表記事](https://medium.com/furuhashilab/unvt-hackathon-meetup-2022-youthmappers-agu-51abe32f1844)
 ---
-## HOT Summit 2021 への登壇【YouthMappers AGU】2021/11/22
+## HOT Summit 2021 への登壇【YouthMappers AGU】　（2021/11/22）
 * 人道支援マッピングプロジェクト Humanitarian OpenStreetMap Team が主催する国際会議 HOT Summit 2021 にて、YouthMappers AGU の代表メンバーとして登壇した。
 * プログラムは全てバーチャルイベントプラットフォーム「Hopin」で進行された。
 * 10分程度のプレゼンテーション動画と Q&A を行うDialogue の形式でエントリーし、YouthMappers AGUの最近の活動と課題について発表した。
@@ -74,7 +81,7 @@
 <img src="https://miro.medium.com/max/1400/1*pBwLRFpE-jCNPJNK-HZYuQ.jpeg" width="50%">
 
 ---
-## Wheelmap紹介イベント用インストラクション動画作成【YouthMappers AGU】2021/08/23
+## Wheelmap紹介イベント用インストラクション動画作成【YouthMappers AGU】　（2021/08/23）
 * LIVES/マイクロンからWheelmap紹介イベントで用いるHow to動画の依頼を受け、YouthMappers AGUのメンバーで制作を行った。
 * 全体の素材のミックス、編集を担当した。
 * 編集ツールはDavinci Resolve。
@@ -83,7 +90,7 @@
 * イベントの報告
   * https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffuruhashilab%2Fposts%2F1547523185600967&show_text=true&width=500"
 ---
-## 古橋研究室ハッカソン2021/06/29-7/13
+## 古橋研究室ハッカソン　（2021/06/29-7/13）
 * テーマは古橋研究室の紹介動画の制作
 * 3年生6名のチームのみで最低1作品制作する。
 * 2~3分程度のmp4ファイルを提出する。
@@ -93,7 +100,7 @@
 * YouTubeの古橋研究室チャンネルで公開中。
   * https://www.youtube.com/watch?v=zMyQzPomwbw
 ---
-## State of the Map 2021 発表用ポスター制作【YouthMappers AGU】2021/06/24
+## State of the Map 2021 発表用ポスター制作【YouthMappers AGU】　（2021/06/24）
 * OSMの国際カンファレンスであるState of the Mapにおいて、2020年から2021年にかけてのYouthMappers AGUの活動内容をまとめたポスターを投稿した。
 * ポスターの制作を担当。デザインプラットフォームのCanvaを使用し、デザイン4原則やインパクトの強さを意識して制作した。
 * State of the Map 2021公式サイトにて公開中。
@@ -101,7 +108,7 @@
 <img src="https://miro.medium.com/max/1050/1*2BRtATFjwbTVcUVCfEQFZw.png" width="50%">
 
 ---
-## 古橋研究室ハッカソン2021/06/1-8
+## 古橋研究室ハッカソン　（2021/06/1-8）
 * テーマは「横瀬町ウォーキングコース」のマップ制作
 *   横瀬町公式のコンペにも応募する。観光部門でのエントリー。
 *   Google Mymap、OSMなどを利用する。
@@ -111,7 +118,7 @@
 * Google My Map でコースを作成し、応募した。
   * https://www.google.com/maps/d/u/0/edit?mid=12ZGJEMXJqXBw9bCIE-kF4nTfh0Ws7FUU&usp=sharing
 ---
-## 古橋研究室ハッカソン2021/05/11-18
+## 古橋研究室ハッカソン　（2021/05/11-18）
 * テーマは「古橋研究室ガチャガチャ アイディア3Dモデリング」
 *   48mmカプセル想定で3Dプリンター出力できる3Dモデルを作成する。
 *   STLファイルとOBJファイルでエクスポートする。
