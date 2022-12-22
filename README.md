@@ -8,6 +8,7 @@
 * [Facebook](https://www.facebook.com/ibukilego/)
 * [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
 ---
+* [**2022年度卒業論文レポジトリ**](https://github.com/furuhashilab/2022gsc_IbukiShibayama)
 * [**2021年度ゼミ論文レポジトリ**](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 * [**2021年度ゼミ論文研究進捗管理用プロジェクト**](https://github.com/furuhashilab/sotsuron2021/projects/10)
 * [相模原キャンパスモデル3Dプリント用データ置き場](https://github.com/furuhashilab/sagamihara_campus_3D_print)
