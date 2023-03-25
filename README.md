@@ -1,9 +1,8 @@
 # Ibuki Shibayama Portfolio ([→Website Ver.](https://ibuki76.github.io/public/index.html))
 ## 柴山息吹
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 地球社会共生学科卒
+* 青山学院大学 [古橋研究室](https://github.com/furuhashilab) 出身
 * 神奈川県 相模原市出身
-* 青山学院大学 [古橋研究室](https://github.com/furuhashilab)所属
-* 学生団体 [YouthMappers AGU](https://www.facebook.com/youthmappers4agu/) 代表
 * [ウェブサイト版ポートフォリオ](https://ibuki76.github.io/public/index.html)
 * [Facebook](https://www.facebook.com/ibukilego/)
 * [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
