@@ -29,6 +29,13 @@
 ## 国土交通省 PLATEAU AWARD 2022 入賞 (2023/2/18)
 ---
 ## 古橋研究室2022年度卒論発表 (2023/2/4)
+* 2023年度の卒業論文・制作物の発表を行った。
+* テーマ: **PLATEAUの整備フローを基にした相模原キャンパスの3D都市モデル制作とオープンデータとしての利用 / Production of a 3D city model of Sagamihara campus based on the PLATEAU development flow and its use as Open Data**
+* [**2022年度卒業論文レポジトリ**](https://github.com/furuhashilab/2022gsc_IbukiShibayama)
+* [レポート記事](https://medium.com/furuhashilab/3d%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%93-1-0-fd0d3603da52?source=collection_home---1------6-----------------------)
+<img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/231671421-17dcd237-7f57-41f1-8858-902544574939.jpg">
+<img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/231671626-a74c3dc5-ec04-45ea-ad9f-b5e0090ad032.jpg">
+
 ---
 ## 国連 OSS4SDG Hackathon 入賞 (2022/12/7)
 * 国連主催の [OSS4SDG Hackathon](https://ideas.unite.un.org/sdg11/Page/Overview) にYouthMappersチームで参加、全49チームのうちTOP8チームに入賞した。
