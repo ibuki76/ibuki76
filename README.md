@@ -1,5 +1,4 @@
 # Ibuki Shibayama Portfolio ([→Website Ver.](https://ibuki76.github.io/public/index.html))
-<img src="https://user-images.githubusercontent.com/72287333/231026510-6a99ffee-632e-41de-9da6-3fd0fca10426.jpg" width="50%">
 
 ## 柴山息吹
 * [株式会社エスユーエス](https://www.sus-g.co.jp/) ITエンジニア
