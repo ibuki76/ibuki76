@@ -26,6 +26,18 @@
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（中）』2022/07/26](https://www.nikkei.com/article/DGKKZO62863070V20C22A7CK8000)
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（下）』2022/08/2](https://www.nikkei.com/article/DGKKZO63070870R00C22A8CK8000)
 ---
+## 国土交通省 PLATEAU AWARD 2022 入賞 (2023/2/18)
+---
+## 古橋研究室2022年度卒論発表 (2023/2/4)
+---
+## 国連 OSS4SDG Hackathon 入賞 (2022/12/7)
+* 国連主催の [OSS4SDG Hackathon](https://ideas.unite.un.org/sdg11/Page/Overview) にYouthMappersチームで参加、全49チームのうちTOP8チームに入賞した。
+* [Project PLATEAU](https://www.mlit.go.jp/plateau/) , [G空間情報センター](https://front.geospatial.jp/) で公開されているCityGMLデータをOpenStreetMapへインポートするために [マニュアル](https://github.com/yuuhayashi/citygml-osm/issues/97) を完成させた。 
+* 成果物: https://github.com/yuuhayashi/citygml-osm/issues/96
+* [レポート記事](https://medium.com/furuhashilab/top-8-teams-of-oss4sdg-e190b5cef86e?source=collection_home---4------14-----------------------)
+<img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/231669127-efcb8636-943c-4756-984d-8a3e4582778e.jpg">
+
+---
 ## Pista ng Mapa / State of the Map Asia 2022 登壇（2022/11/21~25）
 * フィリピン、レガスピの [Bicol University](https://www.openstreetmap.org/?mlat=13.14783&mlon=123.72991#map=18/13.14783/123.72991) で開催された [Pista ng Mapa 2022 / SotM Asia 2022](https://pistangmapa.org/2022/?fbclid=IwAR0ibSBoq-sHmSKDY-Vq50-6ESn0Oxm2jo92wjKB0QyI7RLchJAxk5dOnSI) に、YouthMappers AGUの代表として [Ayako Takahashi](https://github.com/Ayako-T) , [SOTA SUZUKI](https://github.com/SotaSuzuki-1327) とともに現地参加・登壇。
 * YouthMappers AGUの近年の取り組みを、 [Open Mapping Hub Asia-Pacific](https://m.facebook.com/pages/category/Non-Governmental-Organization--NGO-/openmapping.asiapacific/posts/)　、フィリピンの OSM コミュニティ、Meta、Mapbox の関係者に向けて発表した。
