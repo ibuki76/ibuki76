@@ -33,6 +33,10 @@
 <img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/231674090-1795c48f-3fc7-4896-9cd9-46ff95f1c1c2.jpg">
 
 ---
+## トルコ・シリア地震被災地支援Mapathon 運営 (2023/2/17)
+* トルコ・シリアの自身被災地の地図編集を目的とした支援型Mapathonを運営。国内外からボランティアを募りOpenStreetMapのレクチャー・編集を集中的に行った。
+* [レポート記事](https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Ffuruhashilab%2Fyouthmappers-agu-japan-held-mapathon-in-support-of-turkey-and-syria-b141649a4269%3Ffbclid%3DIwAR2-tIf-gc-AdCo9ype5TGMCIfHF9iFR-QRMOJtZrrpT7EJHshsnDbeg9Zs&h=AT2PZvuRlx1mA0FU9FMQw46wE33UbfbYN7nz6mASL4L6GLSGOf_AdY6Vk_m0tu7LEiDJiOIet5-weplWd8nAjneXleyeHcODs2-Ds7-7Viqf0S_YXJdu89PnmTFbc3K7P1_eUVQnEeENW4gUokDg&__tn__=%2CmH-R&c[0]=AT1pQxJZiwVud3_Q8GARKpCaSgAd-WbOS-KUDIC2qstWVPMVcQtFq3cKdnGr2UvdiWxIW2Yc4RtxJHHCxngGrSHWltCPWlfLfzTlq2BgFBvUxhbjKac98IY9eZUf4kARqZ_BnCb-xnkkbMXKAF3r03Pf1nlLCy62zNBXw86hnNUS65TtXlog_NbyNYCkgsGNaoBn8BrNphgN) by [Shogo Hirasawa](https://github.com/ShogoHirasawa)
+---
 ## 古橋研究室2022年度卒論発表 (2023/2/4)
 * 2022年度の卒業論文・制作物の発表を行った。
 * テーマ: **PLATEAUの整備フローを基にした相模原キャンパスの3D都市モデル制作とオープンデータとしての利用 / Production of a 3D city model of Sagamihara campus based on the PLATEAU development flow and its use as Open Data**
