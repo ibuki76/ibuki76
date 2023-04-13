@@ -27,6 +27,14 @@
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（中）』2022/07/26](https://www.nikkei.com/article/DGKKZO62863070V20C22A7CK8000)
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（下）』2022/08/2](https://www.nikkei.com/article/DGKKZO63070870R00C22A8CK8000)
 ---
+## Pista ng Mapa / State of the Map Asia 2022 登壇（2022/11/21~25）
+* フィリピン、レガスピの [Bicol University](https://www.openstreetmap.org/?mlat=13.14783&mlon=123.72991#map=18/13.14783/123.72991) で開催された [Pista ng Mapa 2022 / SotM Asia 2022](https://pistangmapa.org/2022/?fbclid=IwAR0ibSBoq-sHmSKDY-Vq50-6ESn0Oxm2jo92wjKB0QyI7RLchJAxk5dOnSI) に、YouthMappers AGUの代表として [Ayako Takahashi](https://github.com/Ayako-T) , [SOTA SUZUKI](https://github.com/SotaSuzuki-1327) とともに現地参加・登壇。
+* YouthMappers AGUの近年の取り組みを、 [Open Mapping Hub Asia-Pacific](https://m.facebook.com/pages/category/Non-Governmental-Organization--NGO-/openmapping.asiapacific/posts/)　、フィリピンの OSM コミュニティ、Meta、Mapbox の関係者に向けて発表した。
+* [参加レポート記事](https://medium.com/furuhashilab/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-bdb87c7a763b?source=collection_home---4------23-----------------------)
+<img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/231664757-ad1f052e-4bf0-49d1-9062-68f64fdf19b2.jpg">
+<img src="https://user-images.githubusercontent.com/72287333/231026510-6a99ffee-632e-41de-9da6-3fd0fca10426.jpg" width="50%">
+
+---
 ## UN Open GIS Initiative Seminar, Tech Forum & Meetings in conjunction with FOSS4G 2022 参加（2022/8/23）
 * 国連 Open GIS Initiative 主催のオフィシャルイベントにオンラインでオーディエンスとして参加。（ハイブリッド会議、フィレンツェ大学での対面 or Microsoft Teams）
 * 3つの講演をピックアップしてグラレコを作成。
