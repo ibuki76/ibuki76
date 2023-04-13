@@ -27,9 +27,14 @@
 * [日本経済新聞コラム「SDGs世代」『住み続けられるまちづくりを（下）』2022/08/2](https://www.nikkei.com/article/DGKKZO63070870R00C22A8CK8000)
 ---
 ## 国土交通省 PLATEAU AWARD 2022 入賞 (2023/2/18)
+* 国土交通省主催の [PLATEAU AWARD 2022](https://www.mlit.go.jp/plateau-next/award/#top) にYouthMappers AGUチームで参加。ファイナリストに入賞した。
+* テーマ: 『PLATEAU CityGML LOD1 を OpenStreetMap にインポートしてみた！』
+* 発表資料: [SPEAKERDECK](https://l.facebook.com/l.php?u=https%3A%2F%2Fspeakerdeck.com%2Ffullfull%2Fplateau-award-plateau-citygml-lod1-wo-openstreetmap-niinhotositemita-final-fa-biao-yong%3Ffbclid%3DIwAR2fSWeI9moFSEuUxW19PMNfh8apkxiVNcu9gFCfX2E1f_gBtawNYRvWsXU&h=AT1uPTlD9UEA2i3m003ofJEO9onuo8WbcM-y2RaEdTmJJrNTMQvngEK1oisTSWOSe37PeIGJZYRZqWjn-2JACoqq8HiE8nRKkbeXn5QNF7dXsyeaqh3dFkh-cGrymQOVbC3URtpQ5K0CsyUppqoH&__tn__=%2CmH-R&c[0]=AT0Q3JOEpDE1lJUCOZplZBwBzy4RahSh4WnXluboueCoD4dmat7RX_rF-z9dNMmHbgjvpCFS1JesUKRVtVuia4OZpTpUaKhvsqUW11wkNK77t_s7IYOSPuBmgyJsZdSrp_VqVFa7REE1y18xmw5xvguINOvYpDwISrGojLphJJR3zSzslGxg)
+<img width="50%" alt="gr20220823" src="https://user-images.githubusercontent.com/72287333/231674090-1795c48f-3fc7-4896-9cd9-46ff95f1c1c2.jpg">
+
 ---
 ## 古橋研究室2022年度卒論発表 (2023/2/4)
-* 2023年度の卒業論文・制作物の発表を行った。
+* 2022年度の卒業論文・制作物の発表を行った。
 * テーマ: **PLATEAUの整備フローを基にした相模原キャンパスの3D都市モデル制作とオープンデータとしての利用 / Production of a 3D city model of Sagamihara campus based on the PLATEAU development flow and its use as Open Data**
 * [**2022年度卒業論文レポジトリ**](https://github.com/furuhashilab/2022gsc_IbukiShibayama)
 * [レポート記事](https://medium.com/furuhashilab/3d%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%93-1-0-fd0d3603da52?source=collection_home---1------6-----------------------)
