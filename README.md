@@ -19,6 +19,11 @@
 * [Missing Maps](https://www.missingmaps.org/users/#/ibukilego)
 * [VR課題製作](https://ibuki76.github.io/public/3ddesign.html)
 ---
+## 資格・検定
+* 基本情報技術者
+* CGクリエイター検定エキスパート
+* CGエンジニア検定ベーシック
+---
 ## Media
 * [テレビ朝日「テレ朝news」2022/03/16](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
   * [YouTube Ver.](https://youtu.be/7TvqbudJsio)
