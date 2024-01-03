@@ -22,7 +22,7 @@
 ## 資格・検定
 * 基本情報技術者
 * CGクリエイター検定エキスパート
-* CGエンジニア検定ベーシック
+* CGエンジニア検定エキスパート
 ---
 ## Media
 * [テレビ朝日「テレ朝news」2022/03/16](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
