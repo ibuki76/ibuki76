@@ -1,7 +1,6 @@
 # Ibuki Shibayama Portfolio ([→Website Ver.](https://ibuki76.github.io/public/index.html))
 
 ## 柴山息吹
-* [株式会社エスユーエス](https://www.sus-g.co.jp/) ITエンジニア
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 卒
   * 青山学院大学 [古橋研究室](https://github.com/furuhashilab) 出身
   * 神奈川県 相模原市出身
