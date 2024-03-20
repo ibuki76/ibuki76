@@ -19,9 +19,10 @@
 * [VR課題製作](https://ibuki76.github.io/public/3ddesign.html)
 ---
 ## 資格・検定
-* 基本情報技術者
-* CGクリエイター検定エキスパート
-* CGエンジニア検定エキスパート
+* [基本情報技術者](https://www.ipa.go.jp/shiken/kubun/fe.html)
+* [CG-ARTS(公益財団法人画像情報教育振興協会)認定](https://www.cgarts.or.jp/)　[CGマイスター](https://www.cgarts.or.jp/v1/kentei/meister/index.html)
+* [CGクリエイター検定エキスパート](https://www.cgarts.or.jp/v1/kentei/about/creator/index.html)
+* [CGエンジニア検定エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)
 ---
 ## Media
 * [テレビ朝日「テレ朝news」2022/03/16](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
