@@ -1,12 +1,9 @@
-# Ibuki Shibayama Portfolio ([→Website Ver.](https://ibuki76.github.io/public/index.html))
+# Ibuki Shibayama Portfolio
 
 ## 柴山息吹
 * 青山学院大学 [地球社会共生学部](https://www.aoyama.ac.jp/faculty/gsc/) 卒
   * 青山学院大学 [古橋研究室](https://github.com/furuhashilab) 出身
   * 神奈川県 相模原市出身
-* [ウェブサイト版ポートフォリオ](https://ibuki76.github.io/public/index.html)
-* [Facebook](https://www.facebook.com/ibukilego/)
-* [YouTube](https://www.youtube.com/channel/UCVhPkthOhSo3yxd97GynTEg/featured)
 ---
 * [**2022年度卒業論文レポジトリ**](https://github.com/furuhashilab/2022gsc_IbukiShibayama)
 * [**2021年度ゼミ論文レポジトリ**](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
@@ -23,6 +20,7 @@
 * [CG-ARTS(公益財団法人画像情報教育振興協会)認定](https://www.cgarts.or.jp/)　[CGマイスター](https://www.cgarts.or.jp/v1/kentei/meister/index.html)
 * [CGクリエイター検定エキスパート](https://www.cgarts.or.jp/v1/kentei/about/creator/index.html)
 * [CGエンジニア検定エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)
+* [画像処理エンジニア検定ベーシック](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/third.html)
 ---
 ## Media
 * [テレビ朝日「テレ朝news」2022/03/16](https://news.tv-asahi.co.jp/news_society/articles/000248087.html)
